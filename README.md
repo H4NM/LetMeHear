@@ -1,2 +1,2 @@
-# LetMeHear
-Complementary project for WhoYouCalling to enable network redirection and TLS inspection
+# WireTap
+Complementary project for WhoYouCalling to enable TCP network redirection in Windows
